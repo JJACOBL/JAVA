@@ -1,0 +1,11 @@
+*.class
+
+# Package Files #
+MineResetLite.jar
+*.war
+*.ear
+
+# IntelliJ Stuff #
+.idea
+*.iml
+/bin/
