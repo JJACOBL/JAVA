@@ -1,0 +1,15 @@
+main: mc._OutdatedPixel.oEssentials.Main
+name: oEssentials
+author: _OutdatedPixel
+version: 0.1
+depend: [PrisonProfessionalAPI, MenuBuilder]
+
+commands:
+  oEssentials:
+    description: Basic command
+  spectate:
+    description: spectate a player
+  mystats:
+    description: view stats
+  mystatsgui:
+    description: GUI FOR STATS
