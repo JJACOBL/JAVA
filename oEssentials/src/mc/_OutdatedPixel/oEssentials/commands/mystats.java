@@ -1,5 +1,6 @@
 package mc._OutdatedPixel.oEssentials.commands;
 
+//Jacob Luvisi @Author © 2018
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
